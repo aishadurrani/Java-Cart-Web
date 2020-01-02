@@ -520,7 +520,19 @@ footer {
 @media screen and (max-device-width : 480px) {
 
 
+h1 {
 
+    font-family: fantasy; 
+	font-size: 40px;
+    color: #e6b741;
+    padding-top: 5%;
+    padding-bottom: 5%; 
+    text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+	}
 
 .rm-container {
 		width: 100%;
@@ -594,6 +606,34 @@ footer {
 		transition-delay: 0s;
 	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
