@@ -128,7 +128,8 @@ a:active {
  .mainheader {
 
     font-size: 100px;
- }
+    font-family: fantasy;  
+}
 
 h1 {
     font-size: 65px;
